@@ -17,10 +17,10 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "member"}
       - {label: "Category", name: "category", widget: "string"}
-      - {label: "Title", name:"title", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Role", name: "role", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "string"} 
-      - {label: "Social", name: "permalink", widget: "string"} 
+      - {label: "Social", name: "social", widget: "string"} 
       - {label: "Education", name: "education", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "thumbnail", widget: "image"}
