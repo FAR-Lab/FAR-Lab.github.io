@@ -1,20 +1,23 @@
 ---
 title: "News"
 layout: default
-excerpt: "RT2 Lab at Institut Curie"
+excerpt: "FARLAB @ Cornell Tech"
 sitemap: false
-permalink: /news.html
+permalink: /news/
 ---
 <h1>{{page.title}}</h1>
 
-<ul class="list-unstyled">
-    {% for article in site.data.news %}
-        <li class="media">
+<h2><a id="news"></a>News</h2>
+{% assign updates = site.posts | where: 'category', 'update' | sort: 'date' %}
+{% for update in updates %}
+
+<div class="media">
             <div class="media-body">
-            <h4 class="mt-0 mb-1">{{ article.title }}</h4>
-            <p><small>{{ article.date }}</small></p>
-            {{ article.content }}
+            <h4 class="mt-0 mb-1">{{ update.title }}</h4>
+            <p><small>{{ update.date }}</small></p>
+            {{ update.content }}
             </div>
-        </li>
-    {% endfor %}
-</ul>
+</div>
+
+
+{% endfor %}
