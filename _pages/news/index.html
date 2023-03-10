@@ -9,16 +9,12 @@ permalink: /news/
 <h2><a id="news"></a>News</h2>
 {% assign updates = site.posts | where: 'category', 'update' | sort: 'date' %}
 {% for update in updates %}
-<div class="media">
-            <div class="media-body">
-            <h4 class="mt-0 mb-1">{{ update.title }}</h4>
-            <p><small>{{ update.date }}</small></p>
-            <div class="row">
-            
-            {{ update.body }}
-            </div>
-            </div>
-</div>
+
+<li>
+      <a href="{{ update.url }}">{{ update.title }}</a>
+      {{ update.content }} /* or post.excerpt */
+</li>
+
 
 
 {% endfor %}
