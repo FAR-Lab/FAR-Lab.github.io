@@ -1,38 +1,179 @@
 [
 	{
-		"id": "http://zotero.org/groups/2386072/items/NU9LTX7C",
-		"type": "article-journal",
-		"title": "Segmentation of Nuclei in Histopathology Images by Deep Regression of the Distance Map",
-		"container-title": "IEEE Transactions on Medical Imaging",
-		"page": "448-459",
-		"volume": "38",
-		"issue": "2",
-		"source": "IEEE Xplore",
-		"abstract": "The advent of digital pathology provides us with the challenging opportunity to automatically analyze whole slides of diseased tissue in order to derive quantitative profiles that can be used for diagnosis and prognosis tasks. In particular, for the development of interpretable models, the detection and segmentation of cell nuclei is of the utmost importance. In this paper, we describe a new method to automatically segment nuclei from Haematoxylin and Eosin (H&E) stained histopathology data with fully convolutional networks. In particular, we address the problem of segmenting touching nuclei by formulating the segmentation problem as a regression task of the distance map. We demonstrate superior performance of this approach as compared to other approaches using Convolutional Neural Networks.",
-		"DOI": "10.1109/TMI.2018.2865709",
+		"id": "http://zotero.org/groups/4985382/items/9C8X4RDY",
+		"type": "webpage",
+		"abstract": "‪A Bremers, A Pabst, MT Parreira, W Ju‬, ‪arXiv preprint arXiv:2301.11972, 2023‬",
+		"title": "‪Using Social Cues to Recognize Task Failures for HRI: A Review of Current Research and Future Directions‬",
+		"title-short": "‪Using Social Cues to Recognize Task Failures for HRI",
+		"URL": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kjYhZYwAAAAJ&sortby=pubdate&citation_for_view=kjYhZYwAAAAJ:sYWwZaPVD1oC",
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/VDRSJ7ZW",
+		"type": "paper-conference",
+		"container-title": "Adjunct Proceedings of the 14th International Conference on Automotive User Interfaces and Interactive Vehicular Applications",
+		"page": "204–205",
+		"source": "Google Scholar",
+		"title": "Rerun: Enabling Multi-Perspective Analysis of Driving Interaction in VR",
+		"title-short": "Rerun",
 		"author": [
 			{
-				"family": "Naylor",
-				"given": "P."
+				"family": "Goedicke",
+				"given": "David"
 			},
 			{
-				"family": "Laé",
-				"given": "M."
+				"family": "Haraldsson",
+				"given": "Harald"
 			},
 			{
-				"family": "Reyal",
-				"given": "F."
+				"family": "Klein",
+				"given": "Navit"
 			},
 			{
-				"family": "Walter",
-				"given": "T."
+				"family": "Zhou",
+				"given": "Lunshi"
+			},
+			{
+				"family": "Parush",
+				"given": "Avi"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
 			}
 		],
 		"issued": {
 			"date-parts": [
 				[
-					"2019",
-					2
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/7UIZ6IE7",
+		"type": "article-journal",
+		"container-title": "Journal of Urbanism: International Research on Placemaking and Urban Sustainability",
+		"note": "publisher: Taylor & Francis",
+		"page": "1–23",
+		"source": "Google Scholar",
+		"title": "The sidewalk ballet in the age of social distancing: interactive geospatial mapping to study NYC’s pandemic urbanism",
+		"title-short": "The sidewalk ballet in the age of social distancing",
+		"author": [
+			{
+				"family": "Yavo-Ayalon",
+				"given": "Sharon"
+			},
+			{
+				"family": "Gong",
+				"given": "Cheng"
+			},
+			{
+				"family": "Yu",
+				"given": "Harrison"
+			},
+			{
+				"family": "Mandel",
+				"given": "Ilan"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/9LWDJ2PT",
+		"type": "article-journal",
+		"container-title": "International Journal of Qualitative Methods",
+		"note": "publisher: SAGE Publications Sage CA: Los Angeles, CA",
+		"page": "16094069221115519",
+		"source": "Google Scholar",
+		"title": "Walkie-Talkie Maps–A Novel Method to Conduct and Visualize Remote Ethnography",
+		"volume": "21",
+		"author": [
+			{
+				"family": "Yavo-Ayalon",
+				"given": "Sharon"
+			},
+			{
+				"family": "Gong",
+				"given": "Cheng"
+			},
+			{
+				"family": "Yu",
+				"given": "Harrison"
+			},
+			{
+				"family": "Mandel",
+				"given": "Ilan"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/HRYAIKRY",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems",
+		"page": "1–13",
+		"source": "Google Scholar",
+		"title": "XR-OOM: MiXed Reality driving simulation with real cars for research and design",
+		"title-short": "XR-OOM",
+		"author": [
+			{
+				"family": "Goedicke",
+				"given": "David"
+			},
+			{
+				"family": "Bremers",
+				"given": "Alexandra WD"
+			},
+			{
+				"family": "Lee",
+				"given": "Sam"
+			},
+			{
+				"family": "Bu",
+				"given": "Fanjun"
+			},
+			{
+				"family": "Yasuda",
+				"given": "Hiroshi"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
 				]
 			]
 		}
