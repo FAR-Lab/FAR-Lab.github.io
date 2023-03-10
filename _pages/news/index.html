@@ -9,7 +9,6 @@ permalink: /news/
 <h2><a id="news"></a>News</h2>
 {% assign updates = site.posts | where: 'category', 'update' | sort: 'date' %}
 {% for update in updates %}
-
 <div class="media">
             <div class="media-body">
             <h4 class="mt-0 mb-1">{{ update.title }}</h4>
