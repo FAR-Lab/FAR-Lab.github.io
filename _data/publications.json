@@ -1,11 +1,21 @@
 [
 	{
-		"id": "http://zotero.org/groups/4985382/items/9C8X4RDY",
-		"type": "webpage",
-		"abstract": "‪A Bremers, A Pabst, MT Parreira, W Ju‬, ‪arXiv preprint arXiv:2301.11972, 2023‬",
-		"title": "‪Using Social Cues to Recognize Task Failures for HRI: A Review of Current Research and Future Directions‬",
-		"title-short": "‪Using Social Cues to Recognize Task Failures for HRI",
-		"URL": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kjYhZYwAAAAJ&sortby=pubdate&citation_for_view=kjYhZYwAAAAJ:sYWwZaPVD1oC",
+		"id": "http://zotero.org/groups/4985382/items/Q7GX8SR5",
+		"type": "article-journal",
+		"abstract": "The development of autonomous vehicles is often presented as a linear trajectory from total human control to total autonomous control, with only technical and regulatory hurdles in the way. But below the smooth surface of innovation-speak lies a battle over competing autonomous vehicle futures with ramifications well beyond driving. Car companies, technology companies, and others are pursuing alternative autonomous vehicle visions, and each involves an entire reorganization of society, politics, and values. Instead of subscribing to the story of inevitable linear development, this paper explores three archetypes of autonomous vehicles—advanced driver-assist systems, fully driverless cars, and connected cars—and the futures they foretell as the ideal endpoints for different classes of actors. We introduce and use the Handoff Model—a conceptual model for analyzing the political and ethical contours of performing a function with different configurations of human and technical actors—in order to expose the political and social reconfigurations intrinsic to those different futures. Using the Handoff Model, we analyze how each archetype both redistributes the task of “driving” across different human and technical actors and imposes political and ethical propositions both on human “users” and society at large. The Handoff Model exposes the baggage each transport model carries and serves as a guide in identifying the desirable and necessary technical, legal, and social dynamics of whichever future we choose.",
+		"DOI": "10.15779/Z38CR5ND0J",
+		"language": "en",
+		"note": "publisher: Berkeley Technology Law Journal",
+		"source": "DOI.org (Datacite)",
+		"title": "Through the Handoff Lens: Competing Visions of Autonomous Futures",
+		"title-short": "Through the Handoff Lens",
+		"URL": "https://lawcat.berkeley.edu/record/1208600",
+		"author": [
+			{
+				"family": "Goldenfein, Jake; Mulligan, Deirdre K.; Nissenbaum, Helen; Ju, Wendy;",
+				"given": ""
+			}
+		],
 		"accessed": {
 			"date-parts": [
 				[
@@ -14,97 +24,123 @@
 					10
 				]
 			]
-		}
-	},
-	{
-		"id": "http://zotero.org/groups/4985382/items/VDRSJ7ZW",
-		"type": "paper-conference",
-		"container-title": "Adjunct Proceedings of the 14th International Conference on Automotive User Interfaces and Interactive Vehicular Applications",
-		"page": "204–205",
-		"source": "Google Scholar",
-		"title": "Rerun: Enabling Multi-Perspective Analysis of Driving Interaction in VR",
-		"title-short": "Rerun",
-		"author": [
-			{
-				"family": "Goedicke",
-				"given": "David"
-			},
-			{
-				"family": "Haraldsson",
-				"given": "Harald"
-			},
-			{
-				"family": "Klein",
-				"given": "Navit"
-			},
-			{
-				"family": "Zhou",
-				"given": "Lunshi"
-			},
-			{
-				"family": "Parush",
-				"given": "Avi"
-			},
-			{
-				"family": "Ju",
-				"given": "Wendy"
-			}
-		],
+		},
 		"issued": {
 			"date-parts": [
 				[
-					"2022"
+					"2020"
 				]
 			]
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/4985382/items/7UIZ6IE7",
+		"id": "http://zotero.org/groups/4985382/items/FCR98W8K",
 		"type": "article-journal",
-		"container-title": "Journal of Urbanism: International Research on Placemaking and Urban Sustainability",
-		"note": "publisher: Taylor & Francis",
-		"page": "1–23",
-		"source": "Google Scholar",
-		"title": "The sidewalk ballet in the age of social distancing: interactive geospatial mapping to study NYC’s pandemic urbanism",
-		"title-short": "The sidewalk ballet in the age of social distancing",
+		"abstract": "Automated vehicles (AVs) may have broad uses in society, but some applications may be more acceptable than others. Determining contexts in which AVs can acceptably operate is a substantial challenge for policy makers. In an online YouGov survey (N = 1175) with text-and-image vignettes of a one- or three-lane road section, AV convoys that shared lanes with a normal vehicle were perceived less positively and led to greater blame toward their owning institutions than lone AVs. AVs affiliated with a private commercial company were perceived less positively than those affiliated with a public transit agency. AVs used to regulate traffic of the vehicles behind them were blamed more than AVs used to navigate through traffic to reach a destination. These results suggest that numerical balance, vehicle affiliation and intended purpose are aspects of future AV policies for mixed traffic in shared lanes that will influence people's impressions of automated vehicles on public roads.",
+		"container-title": "Transportation Research Part F: Traffic Psychology and Behaviour",
+		"DOI": "10.1016/j.trf.2023.01.013",
+		"ISSN": "1369-8478",
+		"journalAbbreviation": "Transportation Research Part F: Traffic Psychology and Behaviour",
+		"language": "en",
+		"page": "294-308",
+		"source": "ScienceDirect",
+		"title": "Fleets on the streets: How number, affiliation and purpose of shared-lane automated vehicle convoys influence public perception and blame",
+		"title-short": "Fleets on the streets",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S136984782300013X",
+		"volume": "93",
 		"author": [
+			{
+				"family": "Gilbert",
+				"given": "Thomas Krendl"
+			},
+			{
+				"family": "Qu",
+				"given": "Noah Zijie"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			},
+			{
+				"family": "Li",
+				"given": "Jamy"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					2,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/RDCYSB94",
+		"type": "article-journal",
+		"container-title": "Technology|Architecture + Design",
+		"DOI": "10.1080/24751448.2022.2114233",
+		"ISSN": "2475-1448",
+		"issue": "2",
+		"note": "publisher: Routledge\n_eprint: https://doi.org/10.1080/24751448.2022.2114233",
+		"page": "133-137",
+		"source": "Taylor and Francis+NEJM",
+		"title": "Autonomous Futures: Implications for Smart Cities",
+		"title-short": "Autonomous Futures",
+		"URL": "https://doi.org/10.1080/24751448.2022.2114233",
+		"volume": "6",
+		"author": [
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			},
 			{
 				"family": "Yavo-Ayalon",
 				"given": "Sharon"
-			},
-			{
-				"family": "Gong",
-				"given": "Cheng"
-			},
-			{
-				"family": "Yu",
-				"given": "Harrison"
-			},
-			{
-				"family": "Mandel",
-				"given": "Ilan"
-			},
-			{
-				"family": "Ju",
-				"given": "Wendy"
 			}
 		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
-					"2022"
+					"2022",
+					7,
+					3
 				]
 			]
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/4985382/items/9LWDJ2PT",
+		"id": "http://zotero.org/groups/4985382/items/6NP2CKRS",
 		"type": "article-journal",
+		"abstract": "The COVID-19 pandemic, travel restrictions, and social distancing measures have made it difficult to observe, monitor, or manage urban life. To capture the experience of being in New York City during the first year of the COVID-19 pandemic, we used a novel method of remote ethnography to interview people who were walking the city. We developed the Walkie-Talkie Map to collect and present these interviews, enabling website visitors to see what the subject saw as they walked the route of their choice. Visitors can interactively scroll through the interview and have access to additional visualizations and imagery that contextualize the main narrative. Visitors are thus able to vicariously experience what it was like to be in New York City at the outset of the COVID-19 epidemic. This work provides a case study on how to perform observational research when geographic and bodily distance has become the norm. We discuss the advantages and limitations of our method and conclude with its contributions to the study of cities and for others looking to conduct remote observational research in different fields of knowledge. The Walkie-Talkie maps can be found on this url: https://www.socialdistancing.tech.cornell.edu/what-is-a-walike-talkie",
 		"container-title": "International Journal of Qualitative Methods",
-		"note": "publisher: SAGE Publications Sage CA: Los Angeles, CA",
+		"DOI": "10.1177/16094069221115519",
+		"ISSN": "1609-4069",
+		"language": "en",
+		"note": "publisher: SAGE Publications Inc",
 		"page": "16094069221115519",
-		"source": "Google Scholar",
-		"title": "Walkie-Talkie Maps–A Novel Method to Conduct and Visualize Remote Ethnography",
+		"source": "SAGE Journals",
+		"title": "Walkie-Talkie Maps – A Novel Method to Conduct and Visualize Remote Ethnography",
+		"URL": "https://doi.org/10.1177/16094069221115519",
 		"volume": "21",
 		"author": [
 			{
@@ -128,22 +164,97 @@
 				"given": "Wendy"
 			}
 		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
-					"2022"
+					"2022",
+					4,
+					1
 				]
 			]
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/4985382/items/HRYAIKRY",
+		"id": "http://zotero.org/groups/4985382/items/HYWUY3CT",
+		"type": "article-journal",
+		"abstract": "This article explores and characterizes the pandemic urbanism of NYC during the first year of COVID-19. It analyzes changes to the sidewalk and the urban lifestyle using a novel method of remote ethnography: the integrated use of Zoom video conferencing and GPS smartphone tracking to interview participants as they walked and filmed the city. The dataset, composed of transcripts, videos, and routes, was analyzed to reveal recurring themes and visualized through individual Scrollytelling maps combined into one Supermap. The findings are broken down into: 1) changes to the sidewalk, including fewer people, more outdoor sports activity, signs of social distancing, signs of closure, more bikes, and construction; and 2) lifestyle changes, including longings for the urban lifestyle, new-formed solidarity, a renewed appreciation for the local neighborhood, an undercurrent of “moving out” of the city or “moving up” to a better neighborhood, and a difference between Manhattan and the boroughs.",
+		"container-title": "Journal of Urbanism: International Research on Placemaking and Urban Sustainability",
+		"DOI": "10.1080/17549175.2022.2111591",
+		"ISSN": "1754-9175",
+		"issue": "0",
+		"note": "publisher: Routledge\n_eprint: https://doi.org/10.1080/17549175.2022.2111591",
+		"page": "1-23",
+		"source": "Taylor and Francis+NEJM",
+		"title": "The sidewalk ballet in the age of social distancing: interactive geospatial mapping to study NYC’s pandemic urbanism",
+		"title-short": "The sidewalk ballet in the age of social distancing",
+		"URL": "https://doi.org/10.1080/17549175.2022.2111591",
+		"volume": "0",
+		"author": [
+			{
+				"family": "Yavo-Ayalon",
+				"given": "Sharon"
+			},
+			{
+				"family": "Gong",
+				"given": "Cheng"
+			},
+			{
+				"family": "Yu",
+				"given": "Harrison"
+			},
+			{
+				"family": "Mandel",
+				"given": "Ilan"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/H7YTY93A",
 		"type": "paper-conference",
+		"abstract": "High-fidelity driving simulators can act as testbeds for designing in-vehicle interfaces or validating the safety of novel driver assistance features. In this system paper, we develop and validate the safety of a mixed reality driving simulator system that enables us to superimpose virtual objects and events into the view of participants engaging in real-world driving in unmodified vehicles. To this end, we have validated the mixed reality system for basic driver cockpit and low-speed driving tasks, comparing the use of the system with non-headset and with the headset driving conditions, to ensure that participants behave and perform similarly using this system as they would otherwise. This paper outlines the operational procedures and protocols for using such systems for cockpit tasks (like using the parking brake, reading the instrument panel, and turn signaling) as well as basic low-speed driving exercises (such as steering around corners, weaving around obstacles, and stopping at a fixed line) in ways that are safe, effective, and lead to accurate, repeatable data collection about behavioral responses in real-world driving tasks.",
+		"collection-title": "CHI '22",
 		"container-title": "Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems",
+		"DOI": "10.1145/3491102.3517704",
+		"event-place": "New York, NY, USA",
+		"ISBN": "978-1-4503-9157-3",
 		"page": "1–13",
-		"source": "Google Scholar",
+		"publisher": "Association for Computing Machinery",
+		"publisher-place": "New York, NY, USA",
+		"source": "ACM Digital Library",
 		"title": "XR-OOM: MiXed Reality driving simulation with real cars for research and design",
 		"title-short": "XR-OOM",
+		"URL": "https://doi.org/10.1145/3491102.3517704",
 		"author": [
 			{
 				"family": "Goedicke",
@@ -151,7 +262,7 @@
 			},
 			{
 				"family": "Bremers",
-				"given": "Alexandra WD"
+				"given": "Alexandra W.D."
 			},
 			{
 				"family": "Lee",
@@ -170,10 +281,2171 @@
 				"given": "Wendy"
 			}
 		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
-					"2022"
+					"2022",
+					4,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/VZIY5GIH",
+		"type": "paper-conference",
+		"abstract": "Design has been used to contest existing socio-technical arrangements, provoke conversations around matters of concern, and operationalize radical theories such as agonism, which embraces difference and contention. However, the focus is usually on creating something new: a product, interface or artifact. In this paper, we investigate what happens when critical unmaking is deployed as a deliberate design strategy in an intergenerational, agonistic urban context. Specifically, we report on how youth in a six-week design internship used unmaking as a design move to subvert conventional narratives about their surrounding urban context. We analyze how this led to conflictual encounters at the local senior center, and compare it to the other, making-centric proposals which received favorable feedback but failed to raise the same important discussions. Through this ethnographic account, we argue that critical unmaking is important yet overlooked, and should be in the repertoire of design moves available for agonism and provocation.",
+		"collection-title": "CHI '22",
+		"container-title": "Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems",
+		"DOI": "10.1145/3491102.3501930",
+		"event-place": "New York, NY, USA",
+		"ISBN": "978-1-4503-9157-3",
+		"page": "1–16",
+		"publisher": "Association for Computing Machinery",
+		"publisher-place": "New York, NY, USA",
+		"source": "ACM Digital Library",
+		"title": "Unmaking as Agonism: Using Participatory Design with Youth to Surface Difference in an Intergenerational Urban Context",
+		"title-short": "Unmaking as Agonism",
+		"URL": "https://doi.org/10.1145/3491102.3501930",
+		"author": [
+			{
+				"family": "Sabie",
+				"given": "Samar"
+			},
+			{
+				"family": "Jackson",
+				"given": "Steven J."
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			},
+			{
+				"family": "Parikh",
+				"given": "Tapan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					4,
+					29
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/NMBXYBKM",
+		"type": "article-journal",
+		"abstract": "In order for autonomous vehicles to adapt to local norms in human driving, it is critical to profile how human driving differs across geographical locations. While ethnographers have qualitatively described regional differences in driving style, data-driven statistical models might help computer-driven cars drive like locals and recognize how local drivers might be signaling through hand/body movement and motion of their vehicles. To this end, we have created an experimental system and method to profile driving behavior and interaction using a multi-participant virtual reality (VR) driving simulation environment. The system was designed to be portable and to support cross-cultural experimental deployments. We aim to make sure the system is operational and functional, can model diverse scenarios, generates data fit for analysis, and captures expected behaviors. We describe the system, test scenarios, and findings of the proof-of-concept study conducted in the U.S. and Israel.",
+		"container-title": "IEEE Transactions on Vehicular Technology",
+		"DOI": "10.1109/TVT.2022.3152611",
+		"ISSN": "1939-9359",
+		"issue": "4",
+		"note": "event-title: IEEE Transactions on Vehicular Technology",
+		"page": "3399-3413",
+		"source": "IEEE Xplore",
+		"title": "Strangers in a Strange Land: New Experimental System for Understanding Driving Culture Using VR",
+		"title-short": "Strangers in a Strange Land",
+		"volume": "71",
+		"author": [
+			{
+				"family": "Goedicke",
+				"given": "David"
+			},
+			{
+				"family": "Zolkov",
+				"given": "Carmel"
+			},
+			{
+				"family": "Friedman",
+				"given": "Natalie"
+			},
+			{
+				"family": "Wise",
+				"given": "Talia"
+			},
+			{
+				"family": "Parush",
+				"given": "Avi"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/3JNWXUCE",
+		"type": "paper-conference",
+		"abstract": "In this short paper we explore the opportunities and challenges of designing XR technologies to support the collaborative work between family caregivers and clinicians as they attend to the physical care needs of patients in the home setting.",
+		"container-title": "2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)",
+		"DOI": "10.1109/VRW55335.2022.00091",
+		"event-title": "2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)",
+		"page": "419-422",
+		"source": "IEEE Xplore",
+		"title": "Designing Extended Reality Guidance for Physical Caregiving Tasks",
+		"author": [
+			{
+				"family": "Dell",
+				"given": "Nicola"
+			},
+			{
+				"family": "Estrin",
+				"given": "Deborah"
+			},
+			{
+				"family": "Haraldsson",
+				"given": "Harald"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/6DW58KNE",
+		"type": "paper-conference",
+		"abstract": "Big data on the urban scale can enable many applications for improving city life and provide a more holistic understanding of urban life to researchers. While there are approaches to sense and model urban occupant behaviors using sound, radio frequency, and vision, how such behaviors are altered due to city governance and policies in response to emergencies such as a natural disaster or a public health crisis has been less explored. In this paper, we present a computer vision-based approach to capture patterns and interference in the urban life of New York City dwellers from March 2020 to August 2020. Using ∼1 million images gathered with cameras mounted on ride-sharing vehicles throughout the city, we approximated the social proximity of pedestrians to understand policy compliance on the street. Our analysis reveals a correlation between policy violation and virus transmission. We believe that such big datadriven city-scale citizen modeling can inform policy design and crisis management schemes for urban scale smart infrastructure.",
+		"container-title": "Proceedings of the 8th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation",
+		"DOI": "10.1145/3486611.3491123",
+		"event-place": "Coimbra Portugal",
+		"event-title": "BuildSys '21: The 8th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation",
+		"ISBN": "978-1-4503-9114-6",
+		"language": "en",
+		"page": "353-356",
+		"publisher": "ACM",
+		"publisher-place": "Coimbra Portugal",
+		"source": "DOI.org (Crossref)",
+		"title": "Towards sensing urban-scale COVID-19 policy compliance in new york city",
+		"URL": "https://dl.acm.org/doi/10.1145/3486611.3491123",
+		"author": [
+			{
+				"family": "Chowdhury",
+				"given": "Tahiya"
+			},
+			{
+				"family": "Bhatti",
+				"given": "Ansh"
+			},
+			{
+				"family": "Mandel",
+				"given": "Ilan"
+			},
+			{
+				"family": "Ehsan",
+				"given": "Taqiya"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			},
+			{
+				"family": "Ortiz",
+				"given": "Jorge"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					11,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/WQPLB6AT",
+		"type": "paper-conference",
+		"abstract": "Sensing activities at the city scale using big data can enable applications to improve the quality of citizen life. While there are approaches to sense the urban heartbeat using sound, vision, radio frequency (RF), and other sensors, capturing changes at urban scale using such sensing modalities is challenging. Due to the enormous amount of data they produce and the associated annotation and processing requirement, such data can be of limited use. In this paper, we present a vision-to-language modeling approach to capture patterns and transitions that occur in New York City from March 2020 to August 2020. We use the model on ∼1 million street images captured by dashcams over 6 months. We then use the captions to train a language model based on Latent Dirichlet Allocation [4] and compare models from different periods using probabilistic distance measures. We observe distribution shifts in the model that correlate well with social distancing policies and are corroborated by different data sources, such as mobility traces. This language-based sensing introduces a new sensing modality to capture dynamics in the city with lower storage requirements and privacy concerns.",
+		"container-title": "Proceedings of the 8th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation",
+		"DOI": "10.1145/3486611.3491133",
+		"event-place": "Coimbra Portugal",
+		"event-title": "BuildSys '21: The 8th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation",
+		"ISBN": "978-1-4503-9114-6",
+		"language": "en",
+		"page": "302-306",
+		"publisher": "ACM",
+		"publisher-place": "Coimbra Portugal",
+		"source": "DOI.org (Crossref)",
+		"title": "Tracking urban heartbeat and policy compliance through vision and language-based sensing",
+		"URL": "https://dl.acm.org/doi/10.1145/3486611.3491133",
+		"author": [
+			{
+				"family": "Chowdhury",
+				"given": "Tahiya"
+			},
+			{
+				"family": "Ding",
+				"given": "Qizhen"
+			},
+			{
+				"family": "Mandel",
+				"given": "Ilan"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			},
+			{
+				"family": "Ortiz",
+				"given": "Jorge"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					11,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/7L9CMGDD",
+		"type": "article-journal",
+		"abstract": "This paper examines sensor fusion techniques for modeling opportunities for proactive speech-based in-car interfaces. We leverage the Is Now a Good Time (INAGT) dataset, which consists of automotive, physiological, and visual data collected from drivers who self-annotated responses to the question \"Is now a good time?,\" indicating the opportunity to receive non-driving information during a 50-minute drive. We augment this original driver-annotated data with third-party annotations of perceived safety, in order to explore potential driver overconfidence. We show that fusing automotive, physiological, and visual data allows us to predict driver labels of availability, achieving an 0.874 F1-score by extracting statistically relevant features and training with our proposed deep neural network, PazNet. Using the same data and network, we achieve an 0.891 F1-score for predicting third-party labeled safe moments. We train these models to avoid false positives---determinations that it is a good time to interrupt when it is not---since false positives may cause driver distraction or service deactivation by the driver. Our analyses show that conservative models still leave many moments for interaction and show that most inopportune moments are short. This work lays a foundation for using sensor fusion models to predict when proactive speech systems should engage with drivers.",
+		"container-title": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
+		"DOI": "10.1145/3478125",
+		"issue": "3",
+		"journalAbbreviation": "Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.",
+		"page": "133:1–133:28",
+		"source": "Sept 2021",
+		"title": "Learning When Agents Can Talk to Drivers Using the INAGT Dataset and Multisensor Fusion",
+		"URL": "https://doi.org/10.1145/3478125",
+		"volume": "5",
+		"author": [
+			{
+				"family": "Wu",
+				"given": "Tong"
+			},
+			{
+				"family": "Martelaro",
+				"given": "Nikolas"
+			},
+			{
+				"family": "Stent",
+				"given": "Simon"
+			},
+			{
+				"family": "Ortiz",
+				"given": "Jorge"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					9,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/3X3NYJGM",
+		"type": "paper-conference",
+		"abstract": "Most robots are unclothed. However, we believe that robot clothes present an underutilized opportunity for the field of designing interactive systems. Clothes can help robots become better robots––by helping them be useful in a new, wider array of contexts, or better adapt and function in the contexts they are already in. In this paper, we provide a foundation for a research area of robot clothing by speculating on its potential. We systematically present functional requirements of robot clothing, considerations, and parameters for robot clothing designers, as well as key reference cases of robots in clothes. We then discuss what robot clothes can do specifically for the field of designing interactive systems.",
+		"collection-title": "DIS '21",
+		"container-title": "Designing Interactive Systems Conference 2021",
+		"DOI": "10.1145/3461778.3462045",
+		"event-place": "New York, NY, USA",
+		"ISBN": "978-1-4503-8476-6",
+		"page": "1345–1355",
+		"publisher": "Association for Computing Machinery",
+		"publisher-place": "New York, NY, USA",
+		"source": "ACM Digital Library",
+		"title": "What Robots Need From Clothing",
+		"URL": "https://doi.org/10.1145/3461778.3462045",
+		"author": [
+			{
+				"family": "Friedman",
+				"given": "Natalie"
+			},
+			{
+				"family": "Love",
+				"given": "Kari"
+			},
+			{
+				"family": "LC",
+				"given": "RAY"
+			},
+			{
+				"family": "Sabin",
+				"given": "Jenny E"
+			},
+			{
+				"family": "Hoffman",
+				"given": "Guy"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					6,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/FUS3B4ZK",
+		"type": "article",
+		"abstract": "People interacting with voice assistants are often frustrated by voice assistants' frequent errors and inability to respond to backchannel cues. We introduce an open-source video dataset of 21 participants' interactions with a voice assistant, and explore the possibility of using this dataset to enable automatic error recognition to inform self-repair. The dataset includes clipped and labeled videos of participants' faces during free-form interactions with the voice assistant from the smart speaker's perspective. To validate our dataset, we emulated a machine learning classifier by asking crowdsourced workers to recognize voice assistant errors from watching soundless video clips of participants' reactions. We found trends suggesting it is possible to determine the voice assistant's performance from a participant's facial reaction alone. This work posits elicited datasets of interactive responses as a key step towards improving error recognition for repair for voice assistants in a wide variety of applications.",
+		"DOI": "10.48550/arXiv.2104.07153",
+		"note": "arXiv:2104.07153 [cs]",
+		"number": "arXiv:2104.07153",
+		"publisher": "arXiv",
+		"source": "arXiv.org",
+		"title": "Look at Me When I Talk to You: A Video Dataset to Enable Voice Assistants to Recognize Errors",
+		"title-short": "Look at Me When I Talk to You",
+		"URL": "http://arxiv.org/abs/2104.07153",
+		"author": [
+			{
+				"family": "Cuadra",
+				"given": "Andrea"
+			},
+			{
+				"family": "Lee",
+				"given": "Hansol"
+			},
+			{
+				"family": "Cho",
+				"given": "Jason"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/UTYFMFW7",
+		"type": "paper-conference",
+		"abstract": "Exploratory prototyping techniques are critical to devising new robot forms, actions, and behaviors, and to eliciting human responses to designed interactive features, early in the design process. In this opinion piece, we establish the contribution of exploratory prototyping to the field of human-robot interaction, arguing research engaged in design exploration-rather than controlled experimentation-should be focused on flexibility rather than specificity, possibility rather than replicability, and design insights as incubated subjectively through the designer rather than dispassionately proven by statistical analysis. We draw on literature in HCI for examples of published design explorations in academic venues, and to suggest how analogous contributions can be valued and evaluated by the HRI community. Lastly, we present and examine case studies of three design methods we have used in our own design work: physical prototyping with human-in-the-loop control, video prototyping, and virtual simulations.",
+		"collection-title": "HRI '21 Companion",
+		"container-title": "Companion of the 2021 ACM/IEEE International Conference on Human-Robot Interaction",
+		"DOI": "10.1145/3434074.3446909",
+		"event-place": "New York, NY, USA",
+		"ISBN": "978-1-4503-8290-8",
+		"page": "19–28",
+		"publisher": "Association for Computing Machinery",
+		"publisher-place": "New York, NY, USA",
+		"source": "ACM Digital Library",
+		"title": "Fake It to Make It: Exploratory Prototyping in HRI",
+		"title-short": "Fake It to Make It",
+		"URL": "https://doi.org/10.1145/3434074.3446909",
+		"author": [
+			{
+				"family": "Zamfirescu-Pereira",
+				"given": "J.D."
+			},
+			{
+				"family": "Sirkin",
+				"given": "David"
+			},
+			{
+				"family": "Goedicke",
+				"given": "David"
+			},
+			{
+				"family": "LC",
+				"given": "Ray"
+			},
+			{
+				"family": "Friedman",
+				"given": "Natalie"
+			},
+			{
+				"family": "Mandel",
+				"given": "Ilan"
+			},
+			{
+				"family": "Martelaro",
+				"given": "Nikolas"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/DZGFMES6",
+		"type": "article-journal",
+		"abstract": "The effectiveness of social distancing as a disease-slowing measure is dependent on the degree of compliance that individuals demonstrate to such orders. In this ongoing research, we study outdoor pedestrian activity in New York City, specifically using (a) video streams gathered from public traffic cameras (b) dashcam footage from vehicles driving through the city, and (c) mobile phone geo-location data volunteered by local citizens. This project seeks to form a multi-scale map of urban mobility and space occupancy under social distancing policy. The data collected will enable researchers to infer the activities, contexts, origins, and destinations of the people in public spaces. This information can reveal where and, in turn, why stay-at-home orders are and are not being followed. As a work in progress, it is yet too early for detailed findings on this project. However, we report here on several unanticipated factors that have already influenced the course of the project, among them: the death of George Floyd and subsequent protests, data collection challenges, changes in the weather, and the unexpected nature of the progression of COVID-19.",
+		"container-title": "Digital Government: Research and Practice",
+		"DOI": "10.1145/3417991",
+		"ISSN": "2691-199X",
+		"issue": "4",
+		"journalAbbreviation": "Digit. Gov.: Res. Pract.",
+		"page": "32:1–32:12",
+		"source": "October 2020",
+		"title": "Tracking Urban Mobility and Occupancy under Social Distancing Policy",
+		"URL": "https://doi.org/10.1145/3417991",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			},
+			{
+				"family": "Yavo-Ayalon",
+				"given": "Sharon"
+			},
+			{
+				"family": "Mandel",
+				"given": "Ilan"
+			},
+			{
+				"family": "Saldarini",
+				"given": "Federico"
+			},
+			{
+				"family": "Friedman",
+				"given": "Natalie"
+			},
+			{
+				"family": "Sibi",
+				"given": "Srinath"
+			},
+			{
+				"family": "Zamfirescu-Pereira",
+				"given": "J. D."
+			},
+			{
+				"family": "Ortiz",
+				"given": "Jorge"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					10,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/3IZZHZEK",
+		"type": "article-journal",
+		"abstract": "This paper provides a framework for examining human-vehicle interactions with respect to three dimensions that can involve models or simulations: the agents, the environments, and the scenarios. Agents are considered on a spectrum from human to artificial actors. Environments are considered on a spectrum from simulated to real. Scenarios are considered on a spectrum from constrained to unconstrained. It is argued that these three dimensions capture key differences in research approaches within the field of human-vehicle interaction, and that explicitly situating research and discussions within this framework will allow researchers to better compare and contrast research outcomes and contributions. The framework is used to locate different disciplines in the community with respect to one another, and to identify areas which are as-yet unexplored.",
+		"container-title": "Transportation Research Interdisciplinary Perspectives",
+		"DOI": "10.1016/j.trip.2020.100214",
+		"ISSN": "2590-1982",
+		"journalAbbreviation": "Transportation Research Interdisciplinary Perspectives",
+		"language": "en",
+		"page": "100214",
+		"source": "ScienceDirect",
+		"title": "Agents, environments, scenarios: A framework for examining models and simulations of human-vehicle interaction",
+		"title-short": "Agents, environments, scenarios",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S2590198220301251",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Janssen",
+				"given": "Christian P."
+			},
+			{
+				"family": "Boyle",
+				"given": "Linda Ng"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			},
+			{
+				"family": "Riener",
+				"given": "Andreas"
+			},
+			{
+				"family": "Alvarez",
+				"given": "Ignacio"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					11,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/4L9JSXHD",
+		"type": "paper-conference",
+		"abstract": "Many producers of automated vehicle systems have begun testing autonomous vehicles on the road. In order to ensure safety and prevent crashes, human drivers are enlisted to monitor autonomous vehicles. However, operators of autonomous systems exhibit negative behavior adaptations in response to prolonged supervision of automation. To prevent the onset of undesirable behaviors in safety drivers, we must investigate driver state and behavior changes during the operation of highly automated vehicles. In the study presented here, we examine the effects of theoretical and practical training on the drivers' response to potentially critical situations in a longitudinal driving simulator study. We also present the effects of encountering a failure of the automated vehicle on driver state and behavior. We conducted a two-part panel driving simulator study (N=28), with an interval of 20-30 days between the training and testing sessions. We found that while participants with training are better prepared for a potential failure of the automation, participants in both conditions show a rise in sleepy or drowsy behavior before a potential failure of automation.",
+		"DOI": "10.1109/IV47402.2020.9304537",
+		"source": "ResearchGate",
+		"title": "Back to School: Impact of Training on Driver Behavior and State in Autonomous Vehicles",
+		"title-short": "Back to School",
+		"author": [
+			{
+				"family": "Sibi",
+				"given": "Srinath"
+			},
+			{
+				"family": "Balters",
+				"given": "Stephanie"
+			},
+			{
+				"family": "Fu",
+				"given": "Ernestine"
+			},
+			{
+				"family": "Strack",
+				"given": "Ella"
+			},
+			{
+				"family": "Steinert",
+				"given": "Martin"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					11,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/96K2DRNT",
+		"type": "article",
+		"abstract": "Travel restrictions and social distancing measures make it difficult to observe, monitor or manage physical fieldwork. We describe research in progress that applies technologies for real-time remote observation and conversation in on-road vehicles to observe field work on a farm. We collaborated on a pilot deployment of this project at Kreher Eggs in upstate New York. We instrumented a tractor with equipment to remotely observe and interview farm workers performing vehicle-related work. This work was initially undertaken to allow sustained observation of field work over longer periods of time from geographically distant locales; given our current situation, this work provides a case study in how to perform observational research when geographic and bodily distance have become the norm. We discuss our experiences and provide some preliminary insights for others looking to conduct remote observational research in the field.",
+		"note": "arXiv:2103.03163 [cs]",
+		"number": "arXiv:2103.03163",
+		"publisher": "arXiv",
+		"source": "arXiv.org",
+		"title": "Remote Observation of Field Work on the Farm",
+		"URL": "http://arxiv.org/abs/2103.03163",
+		"author": [
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			},
+			{
+				"family": "Mandel",
+				"given": "Ilan"
+			},
+			{
+				"family": "Weatherwax",
+				"given": "Kevin"
+			},
+			{
+				"family": "Takayama",
+				"given": "Leila"
+			},
+			{
+				"family": "Martelaro",
+				"given": "Nikolas"
+			},
+			{
+				"family": "Willett",
+				"given": "Denis"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/K9G5ZRZH",
+		"type": "paper-conference",
+		"abstract": "It can be difficult for user researchers to explore how people might interact with interactive systems in everyday contexts; time and space limitations make it hard to be present everywhere that technology is used. Digital music services are one domain where designing for context is important given the myriad places people listen to music. One novel method to help design researchers embed themselves in everyday contexts is through remote-controlled speech agents. This paper describes a practitioner-centered case study of music service interaction researchers using a remote-controlled speech agent, called DJ Bot, to explore people's music interaction in the car and the home. DJ Bot allowed the team to conduct remote user research and contextual inquiry and to quickly explore new interactions. However, challenges using a remote speech-agent arose when adapting DJ Bot from the constrained environment of the car to the unconstrained home environment.",
+		"collection-title": "DIS '20",
+		"container-title": "Proceedings of the 2020 ACM Designing Interactive Systems Conference",
+		"DOI": "10.1145/3357236.3395440",
+		"event-place": "New York, NY, USA",
+		"ISBN": "978-1-4503-6974-9",
+		"page": "2065–2076",
+		"publisher": "Association for Computing Machinery",
+		"publisher-place": "New York, NY, USA",
+		"source": "ACM Digital Library",
+		"title": "Using Remote Controlled Speech Agents to Explore Music Experience in Context",
+		"URL": "https://doi.org/10.1145/3357236.3395440",
+		"author": [
+			{
+				"family": "Martelaro",
+				"given": "Nikolas"
+			},
+			{
+				"family": "Mennicken",
+				"given": "Sarah"
+			},
+			{
+				"family": "Thom",
+				"given": "Jennifer"
+			},
+			{
+				"family": "Cramer",
+				"given": "Henriette"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					7,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/4VBG4J4W",
+		"type": "article-journal",
+		"abstract": "The understanding of stress and its impact on human performance is crucial to mitigate human error in the face of a threat. This is especially the case for critical incidents on a ship bridge, where human error can easily lead to severe danger for crew, cargo, and other vessels. To overcome the current limitations of robust objective stress measures that reliably detect (di-)stress under highly noisy conditions, we set out to explore whether salivary cortisol – the stress biomarker in medicine and psychology – is a valuable complementary assessment tool in a high-stress/emergency context. In a controlled within-subjects experiment (N = 12) using a ship bridge simulator, we measured stress levels under three conditions (80 min each): baseline, low stress (open water navigation task in autopilot), and high stress (open water emergency scenario). We sampled salivary cortisol at 10 min intervals in conjunction with heart rate (variability) monitoring, and subjective stress assessments from both participants and expert evaluators. Results validate salivary cortisol as a successful tool for detecting distress. Unlike the other stress measures, salivary cortisol strongly correlated with expert stress assessments (r = 0.856) and overt stress behavior like instances of freezing and missing response cues. Surprisingly, data further revealed decreased salivary cortisol across periods of self-assessed improved performance (i.e., eustress). In fact, data suggests an inverted u-relationship between performance and salivary cortisol. The findings have direct implications for the vast field of emergency training, and serve as a first important validation and benchmark to proceed with real life applications.",
+		"container-title": "International Journal of Industrial Ergonomics",
+		"DOI": "10.1016/j.ergon.2020.102975",
+		"ISSN": "0169-8141",
+		"journalAbbreviation": "International Journal of Industrial Ergonomics",
+		"language": "en",
+		"page": "102975",
+		"source": "ScienceDirect",
+		"title": "Mayday, Mayday, Mayday: Using salivary cortisol to detect distress (and eustress!) in critical incident training",
+		"title-short": "Mayday, Mayday, Mayday",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S0169814119305785",
+		"volume": "78",
+		"author": [
+			{
+				"family": "Balters",
+				"given": "Stephanie"
+			},
+			{
+				"family": "Geeseman",
+				"given": "Joseph W."
+			},
+			{
+				"family": "Tveten",
+				"given": "Ann-Kristin"
+			},
+			{
+				"family": "Hildre",
+				"given": "Hans Petter"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			},
+			{
+				"family": "Steinert",
+				"given": "Martin"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					7,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/TIZ72K8D",
+		"type": "article-journal",
+		"abstract": "Conventional interaction design methodologies cannot fully encompass the redefined relationships between humans and increasingly intelligent technology. New methods are necessary to address interaction at early stages in the design process. Both design metaphors and enactment techniques have been suggested, and this paper explores whether a combination of these can support the design of future interactions. Across three workshops, 27 participants utilised the combination to design the interaction with an automated driving system. Analysis shows that the method combination supported imagining and designing; metaphors aided the creation of a joint conceptual vision of the relationship, and the enactment created tangible experiences and contextualisation of the design concepts. Jointly the methods brought together multi-disciplinary teams in a shared vision, by acting as a shared language and enacted representations of insights that could be engaged with and experienced together.",
+		"container-title": "Design Studies",
+		"DOI": "10.1016/j.destud.2019.12.001",
+		"ISSN": "0142-694X",
+		"journalAbbreviation": "Design Studies",
+		"language": "en",
+		"page": "77-101",
+		"source": "ScienceDirect",
+		"title": "Enacting metaphors to explore relations and interactions with automated driving systems",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S0142694X19300870",
+		"volume": "67",
+		"author": [
+			{
+				"family": "Strömberg",
+				"given": "Helena"
+			},
+			{
+				"family": "Pettersson",
+				"given": "Ingrid"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					3,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/FMP84WM6",
+		"type": "paper-conference",
+		"abstract": "Human-Computer Integration (HInt) is an emerging paradigm in which computational and human systems are closely interwoven. Integrating computers with the human body is not new. however, we believe that with rapid technological advancements, increasing real-world deployments, and growing ethical and societal implications, it is critical to identify an agenda for future research. We present a set of challenges for HInt research, formulated over the course of a five-day workshop consisting of 29 experts who have designed, deployed and studied HInt systems. This agenda aims to guide researchers in a structured way towards a more coordinated and conscientious future of human-computer integration.",
+		"collection-title": "CHI '20",
+		"container-title": "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+		"DOI": "10.1145/3313831.3376242",
+		"event-place": "New York, NY, USA",
+		"ISBN": "978-1-4503-6708-0",
+		"page": "1–15",
+		"publisher": "Association for Computing Machinery",
+		"publisher-place": "New York, NY, USA",
+		"source": "ACM Digital Library",
+		"title": "Next Steps for Human-Computer Integration",
+		"URL": "https://doi.org/10.1145/3313831.3376242",
+		"author": [
+			{
+				"family": "Mueller",
+				"given": "Florian Floyd"
+			},
+			{
+				"family": "Lopes",
+				"given": "Pedro"
+			},
+			{
+				"family": "Strohmeier",
+				"given": "Paul"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			},
+			{
+				"family": "Seim",
+				"given": "Caitlyn"
+			},
+			{
+				"family": "Weigel",
+				"given": "Martin"
+			},
+			{
+				"family": "Nanayakkara",
+				"given": "Suranga"
+			},
+			{
+				"family": "Obrist",
+				"given": "Marianna"
+			},
+			{
+				"family": "Li",
+				"given": "Zhuying"
+			},
+			{
+				"family": "Delfa",
+				"given": "Joseph"
+			},
+			{
+				"family": "Nishida",
+				"given": "Jun"
+			},
+			{
+				"family": "Gerber",
+				"given": "Elizabeth M."
+			},
+			{
+				"family": "Svanaes",
+				"given": "Dag"
+			},
+			{
+				"family": "Grudin",
+				"given": "Jonathan"
+			},
+			{
+				"family": "Greuter",
+				"given": "Stefan"
+			},
+			{
+				"family": "Kunze",
+				"given": "Kai"
+			},
+			{
+				"family": "Erickson",
+				"given": "Thomas"
+			},
+			{
+				"family": "Greenspan",
+				"given": "Steven"
+			},
+			{
+				"family": "Inami",
+				"given": "Masahiko"
+			},
+			{
+				"family": "Marshall",
+				"given": "Joe"
+			},
+			{
+				"family": "Reiterer",
+				"given": "Harald"
+			},
+			{
+				"family": "Wolf",
+				"given": "Katrin"
+			},
+			{
+				"family": "Meyer",
+				"given": "Jochen"
+			},
+			{
+				"family": "Schiphorst",
+				"given": "Thecla"
+			},
+			{
+				"family": "Wang",
+				"given": "Dakuo"
+			},
+			{
+				"family": "Maes",
+				"given": "Pattie"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					4,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/IP3B8G7H",
+		"type": "paper-conference",
+		"abstract": "A growing number of studies use a \"ghost-driver\" vehicle driven by a person in a car seat costume to simulate an autonomous vehicle. Using a hidden-driver vehicle in a field study in the Netherlands, Study 1 (N = 130) confirmed that the ghostdriver methodology is valid in Europe and confirmed that European pedestrians change their behavior when encountering a hidden-driver vehicle. As an important extension to past research, we find pedestrian group size is associated with their behavior: groups look longer than singletons when encountering an autonomous vehicle, but look for less time than singletons when encountering a normal vehicle. Study 2 (N = 101) adapted and extended the hidden-driver method to test whether it is believable as online video stimuli and whether car characteristics and participant feelings are related to the beliefs and behavior of pedestrians who see hidden-driver vehicles. As expected, belief rates were lower for hidden-driver vehicles seen in videos compared to in a field study. Importantly, we found noticing no driver was the only significant predictor of belief in car autonomy, which reinforces prior justification for the use of the ghostdriver method. Our contributions are a replication of the hidden-driver method in Europe and comparisons with past US and Mexico data; an extension and evaluation of the ghostdriver method in video form; evidence of the necessity of the hidden driver in creating the illusion of vehicle autonomy; and an extended analysis of how pedestrian group size and feelings relate to pedestrian behavior when encountering a hidden-driver vehicle.",
+		"collection-title": "HRI '20",
+		"container-title": "Proceedings of the 2020 ACM/IEEE International Conference on Human-Robot Interaction",
+		"DOI": "10.1145/3319502.3374790",
+		"event-place": "New York, NY, USA",
+		"ISBN": "978-1-4503-6746-2",
+		"page": "141–149",
+		"publisher": "Association for Computing Machinery",
+		"publisher-place": "New York, NY, USA",
+		"source": "ACM Digital Library",
+		"title": "On-Road and Online Studies to Investigate Beliefs and Behaviors of Netherlands, US and Mexico Pedestrians Encountering Hidden-Driver Vehicles",
+		"URL": "https://doi.org/10.1145/3319502.3374790",
+		"author": [
+			{
+				"family": "Li",
+				"given": "Jamy"
+			},
+			{
+				"family": "Currano",
+				"given": "Rebecca"
+			},
+			{
+				"family": "Sirkin",
+				"given": "David"
+			},
+			{
+				"family": "Goedicke",
+				"given": "David"
+			},
+			{
+				"family": "Tennent",
+				"given": "Hamish"
+			},
+			{
+				"family": "Levine",
+				"given": "Aaron"
+			},
+			{
+				"family": "Evers",
+				"given": "Vanessa"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					3,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/TX22BWWU",
+		"type": "paper-conference",
+		"abstract": "Top-down simulations of autonomous intersections neglect considerations for the human experience of being in cars driving through these autonomous intersections. To understand the impact that perspective has on perception of autonomous intersections, we conducted a driving simulator experiment and studied the experience in terms of perception, feelings, and pleasure. Based on this data, we discuss experiential factors of autonomous intersections that are perceived as beneficial or detrimental for the future driver. Furthermore, we present what the change of perspective implies for designing intersection models, future in-car interfaces and simulation techniques.",
+		"collection-title": "AutomotiveUI '19",
+		"container-title": "Proceedings of the 11th International Conference on Automotive User Interfaces and Interactive Vehicular Applications",
+		"DOI": "10.1145/3342197.3344520",
+		"event-place": "New York, NY, USA",
+		"ISBN": "978-1-4503-6884-1",
+		"page": "275–283",
+		"publisher": "Association for Computing Machinery",
+		"publisher-place": "New York, NY, USA",
+		"source": "ACM Digital Library",
+		"title": "How People Experience Autonomous Intersections: Taking a First-Person Perspective",
+		"title-short": "How People Experience Autonomous Intersections",
+		"URL": "https://doi.org/10.1145/3342197.3344520",
+		"author": [
+			{
+				"family": "Krome",
+				"given": "Sven"
+			},
+			{
+				"family": "Goedicke",
+				"given": "David"
+			},
+			{
+				"family": "Matarazzo",
+				"given": "Thomas J."
+			},
+			{
+				"family": "Zhu",
+				"given": "Zimeng"
+			},
+			{
+				"family": "Zhang",
+				"given": "Zhenwei"
+			},
+			{
+				"family": "Zamfirescu-Pereira",
+				"given": "J. D."
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					9,
+					21
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/I59SC2DT",
+		"type": "article-journal",
+		"abstract": "Dominance is a key aspect of interpersonal relationships. To what extent do nonverbal indicators related to dominance status translate to a nonanthropomorphic robot? An experiment (N = 25) addressed whether a mobile robot's motion style can influence people's perceptions of its status. Using concepts from improv theater literature, we developed two motion styles across three scenarios (robot makes lateral motions, approaches, and departs) to communicate a robot's dominance status through nonverbal expression. In agreement with the literature, participants described a motion style that was fast, in the foreground, and more animated as higher status than a motion style that was slow, in the periphery, and less animated. Participants used fewer negative emotion words to describe the robot with the purportedly high-status movements versus the purportedly low-status movements, but used more negative emotion words to describe the robot when it made departing motions that occurred in the same style. This result provides evidence that guidelines from improvisational theater for using nonverbal expression to perform interpersonal status can be applied to influence perception of a nonanthropomorphic robot's status, thus suggesting that useful models for more complicated behaviors might similarly be derived from performance literature and theory.",
+		"container-title": "ACM Transactions on Human-Robot Interaction",
+		"DOI": "10.1145/3310357",
+		"issue": "1",
+		"journalAbbreviation": "J. Hum.-Robot Interact.",
+		"page": "4:1–4:14",
+		"source": "March 2019",
+		"title": "Communicating Dominance in a Nonanthropomorphic Robot Using Locomotion",
+		"URL": "https://doi.org/10.1145/3310357",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Li",
+				"given": "Jamy"
+			},
+			{
+				"family": "Cuadra",
+				"given": "Andrea"
+			},
+			{
+				"family": "Mok",
+				"given": "Brian"
+			},
+			{
+				"family": "Reeves",
+				"given": "Byron"
+			},
+			{
+				"family": "Kaye",
+				"given": "Jofish"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					3,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/7V2F2FMW",
+		"type": "paper-conference",
+		"abstract": "Advances in automotive sensing systems and speech interfaces provide new opportunities for smarter driving assistants or infotainment systems. For both safety and consumer satisfaction reasons, any new system which interacts with drivers must do so at appropriate times. We asked 63 drivers, ''Is now a good time?'' to receive non-driving information during a 50-minute drive. We analyzed 2,734 responses and synchronized automotive and video data, and show that while the chances of choosing a good time can be determined with better success using easily accessible automotive data, certain nuances in the problem require a richer understanding of the driver and environment states in order to achieve higher performance. We illustrate several of these nuances with quantitative and qualitative analyses to contribute to the understanding of how to design a system that might simultaneously minimize the risk of interacting at a bad time while maximizing the window of allowable interruption.",
+		"collection-title": "CHI '19",
+		"container-title": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+		"DOI": "10.1145/3290605.3300867",
+		"event-place": "New York, NY, USA",
+		"ISBN": "978-1-4503-5970-2",
+		"page": "1–12",
+		"publisher": "Association for Computing Machinery",
+		"publisher-place": "New York, NY, USA",
+		"source": "ACM Digital Library",
+		"title": "Is Now A Good Time? An Empirical Study of Vehicle-Driver Communication Timing",
+		"title-short": "Is Now A Good Time?",
+		"URL": "https://doi.org/10.1145/3290605.3300867",
+		"author": [
+			{
+				"family": "Semmens",
+				"given": "Rob"
+			},
+			{
+				"family": "Martelaro",
+				"given": "Nikolas"
+			},
+			{
+				"family": "Kaveti",
+				"given": "Pushyami"
+			},
+			{
+				"family": "Stent",
+				"given": "Simon"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					5,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/R6I4RSGJ",
+		"type": "paper-conference",
+		"abstract": "In fields where in situ performance cannot be measured, ecological validity is difficult to estimate. Drawing on theory from social psychology and virtual reality, we argue that face validity can be a useful proxy for ecological validity. We provide illustrative examples of this relationship from work in search-and-rescue HRI, and conclude with some practical guidelines for the construction of immersive simulations in general.",
+		"collection-title": "CHI '19",
+		"container-title": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+		"DOI": "10.1145/3290605.3300681",
+		"event-place": "New York, NY, USA",
+		"ISBN": "978-1-4503-5970-2",
+		"page": "1–8",
+		"publisher": "Association for Computing Machinery",
+		"publisher-place": "New York, NY, USA",
+		"source": "ACM Digital Library",
+		"title": "Face and Ecological Validity in Simulations: Lessons from Search-and-Rescue HRI",
+		"title-short": "Face and Ecological Validity in Simulations",
+		"URL": "https://doi.org/10.1145/3290605.3300681",
+		"author": [
+			{
+				"family": "Dole",
+				"given": "Lorin"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					5,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/HB2QA546",
+		"type": "paper-conference",
+		"abstract": "Recent research suggests that a robot's motors make sounds that can influence users' perception of the robot's characteristics. To more deeply understand users' associations with specific sonic characteristics, we adapted methods from sensory science including Check All That Apply (CATA) questions and Polarized Sensory Positioning (PSP) to tease out small differences in motor sounds in an online survey. These methods are straightforward for untrained people to do in an online setting, mathematically rigorous, and can explore a variety of subtle auditory and perceptual stimuli. We describe how to use these methods, interpret the results with several intuitive visual representations, and show that the results align with a previous study of the same dataset. We close by discussing benefits and limitations of applying these methods to study subtle phenomena in the HCI community.",
+		"collection-title": "CHI '19",
+		"container-title": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+		"DOI": "10.1145/3290605.3300730",
+		"event-place": "New York, NY, USA",
+		"ISBN": "978-1-4503-5970-2",
+		"page": "1–12",
+		"publisher": "Association for Computing Machinery",
+		"publisher-place": "New York, NY, USA",
+		"source": "ACM Digital Library",
+		"title": "Unintended Consonances: Methods to Understand Robot Motor Sound Perception",
+		"title-short": "Unintended Consonances",
+		"URL": "https://doi.org/10.1145/3290605.3300730",
+		"author": [
+			{
+				"family": "Moore",
+				"given": "Dylan"
+			},
+			{
+				"family": "Dahl",
+				"given": "Tobias"
+			},
+			{
+				"family": "Varela",
+				"given": "Paula"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			},
+			{
+				"family": "Næs",
+				"given": "Tormod"
+			},
+			{
+				"family": "Berget",
+				"given": "Ingunn"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					5,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/Y725YXUA",
+		"type": "article-journal",
+		"abstract": "A Hidden Markov Model framework is introduced to formalize the beliefs that humans may have about the mode in which a semi-automated vehicle is operating. Previous research has identified various “levels of automation,” which serve to clarify the different degrees of a vehicle’s automation capabilities and expected operator involvement. However, a vehicle that is designed to perform at a certain level of automation can actually operate across different modes of automation within its designated level, and its operational mode might also change over time. Confusion can arise when the user fails to understand the mode of automation that is in operation at any given time, and this potential for confusion is not captured in models that simply identify levels of automation. In contrast, the Hidden Markov Model framework provides a systematic and formal specification of mode confusion due to incorrect user beliefs. The framework aligns with theory and practice in various interdisciplinary approaches to the field of vehicle automation. Therefore, it contributes to the principled design and evaluation of automated systems and future transportation systems.",
+		"container-title": "International Journal of Human–Computer Interaction",
+		"DOI": "10.1080/10447318.2018.1561789",
+		"ISSN": "1044-7318",
+		"issue": "11",
+		"note": "publisher: Taylor & Francis\n_eprint: https://doi.org/10.1080/10447318.2018.1561789",
+		"page": "947-955",
+		"source": "Taylor and Francis+NEJM",
+		"title": "A Hidden Markov Framework to Capture Human–Machine Interaction in Automated Vehicles",
+		"URL": "https://doi.org/10.1080/10447318.2018.1561789",
+		"volume": "35",
+		"author": [
+			{
+				"family": "Janssen",
+				"given": "Christian P."
+			},
+			{
+				"family": "Boyle",
+				"given": "Linda Ng"
+			},
+			{
+				"family": "Kun",
+				"given": "Andrew L."
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			},
+			{
+				"family": "Chuang",
+				"given": "Lewis L."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					7,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/VMR83QED",
+		"type": "article-journal",
+		"abstract": "We present the use of in-car virtual reality (VR) as a way to create calm, mindful experiences for passengers and, someday, autonomous vehicle occupants. Specifically, we describe a series of studies aimed at exploring appropriate VR content, understanding the influence of car movement, and determining the length and other parameters of the simulation to avoid physical discomfort. Overall, our quantitative and qualitative insights suggest calm VR applications are well suited to an automotive context. Testing combinations of VR content designed to provide the participant with a static or dynamic experience versus stationary and moving vehicle modes, we find that a simulated experience of diving in the ocean while in a moving car elicited significantly lower levels of autonomic arousal as compared with a static VR plus stationary car condition. No significant motion sickness effects were subjectively reported by participants nor observable in the data, though a crossover interaction effect reveals how incongruence between the movement of the car and movement in VR could affect nausea. We conclude with recommendations for the design of calming and mindful VR experiences in moving vehicles.",
+		"container-title": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
+		"DOI": "10.1145/3287062",
+		"issue": "4",
+		"journalAbbreviation": "Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.",
+		"page": "184:1–184:21",
+		"source": "December 2018",
+		"title": "Driving with the Fishes: Towards Calming and Mindful Virtual Reality Experiences for the Car",
+		"title-short": "Driving with the Fishes",
+		"URL": "https://doi.org/10.1145/3287062",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Paredes",
+				"given": "Pablo E."
+			},
+			{
+				"family": "Balters",
+				"given": "Stephanie"
+			},
+			{
+				"family": "Qian",
+				"given": "Kyle"
+			},
+			{
+				"family": "Murnane",
+				"given": "Elizabeth L."
+			},
+			{
+				"family": "Ordóñez",
+				"given": "Francisco"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			},
+			{
+				"family": "Landay",
+				"given": "James A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					12,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/3QQ8DGXT",
+		"type": "chapter",
+		"abstract": "Interactive systems present new opportunities for creating devices that attempt to learn the needs of people. However, inferring from data alone may not always allow for a true understanding of user needs. We suggest a vision of Social IoT where designers interact with users through machines as a new method for needﬁnding. We present a framework using interactive systems as Needﬁnding Machines. Acting through a Needﬁnding Machine, the designer observes behavior, asks questions, and remotely performs the machine in order to understand the user within a situated context. To explore a Needﬁnding Machine in use, we created DJ Bot, an interactive music agent that allows designers to remotely control music and talk to users about why they are listening. We show three test sessions where designers used DJ Bot with people listening to music while driving. These sessions suggest how Needﬁnding Machines can be used by designers to help empathize with users, discover potential needs and explore future alternatives for Social Internet of Things products.",
+		"container-title": "Social Internet of Things",
+		"event-place": "Cham",
+		"ISBN": "978-3-319-94657-3",
+		"language": "en",
+		"note": "collection-title: Internet of Things\nDOI: 10.1007/978-3-319-94659-7_4",
+		"page": "51-84",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"source": "DOI.org (Crossref)",
+		"title": "The Needfinding Machine",
+		"URL": "http://link.springer.com/10.1007/978-3-319-94659-7_4",
+		"editor": [
+			{
+				"family": "Soro",
+				"given": "Alessandro"
+			},
+			{
+				"family": "Brereton",
+				"given": "Margot"
+			},
+			{
+				"family": "Roe",
+				"given": "Paul"
+			}
+		],
+		"author": [
+			{
+				"family": "Martelaro",
+				"given": "Nikolas"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/G8GDGVNA",
+		"type": "paper-conference",
+		"abstract": "Road Vehicle automation systems are likely to be reliable enough in the near future for drivers to disengage from the task of driving in certain road conditions, but will likely need to hand back control to the driver when approaching difficult conditions. In such cases, it might be valuable to assist the driver even after the handover of control, but that might cause mode confusion and over-reliance on the assistance system. Here, we describe a study that tests the effect of driver alert and support systems on driving performance and perceived allocation of responsibility for vehicle safety, after a handover of control from automated driving. Results show that steering support improves lane-keeping performance after a transition of control and does not significantly affect safety in a lane change event. The study data also suggests that drivers might mistake external forces on the steering wheel (such as those due to wind or road surface imperfections) for forces applied by an automated driving system.",
+		"container-title": "2018 21st International Conference on Intelligent Transportation Systems (ITSC)",
+		"DOI": "10.1109/ITSC.2018.8569499",
+		"event-title": "2018 21st International Conference on Intelligent Transportation Systems (ITSC)",
+		"note": "ISSN: 2153-0017",
+		"page": "2104-2110",
+		"source": "IEEE Xplore",
+		"title": "Driver Assistance after Handover of Control from Automation",
+		"author": [
+			{
+				"family": "Johns",
+				"given": "Mishel"
+			},
+			{
+				"family": "Strack",
+				"given": "Gamze"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/APJR4PA7",
+		"type": "paper-conference",
+		"abstract": "We propose a novel method for reliably inducing stress in drivers for the purpose of generating real-world participant data for machine learning, using both scripted in-vehicle stressor events and unscripted on-road stressors such as pedestrians and construction zones. On-road drives took place in a vehicle outfitted with an experimental display that lead drivers to believe they had prematurely ran out of charge on an isolated road. We describe the elicitation method, course design, instrumentation, data collection procedure and the post-hoc labeling of unplanned road events to illustrate how rich data about a variety of stress-related events can be elicited from study participants on-road. We validate this method with data including psychophysiological measurements, video, voice, and GPS data from (N=20) participants. Results from algorithmic psychophysiological stress analysis were validated using participant self-reports. Results of stress elicitation analysis show that our method elicited a stress-state in 89% of participants.",
+		"collection-title": "AutomotiveUI '18",
+		"container-title": "Proceedings of the 10th International Conference on Automotive User Interfaces and Interactive Vehicular Applications",
+		"DOI": "10.1145/3239060.3239090",
+		"event-place": "New York, NY, USA",
+		"ISBN": "978-1-4503-5946-7",
+		"page": "298–309",
+		"publisher": "Association for Computing Machinery",
+		"publisher-place": "New York, NY, USA",
+		"source": "ACM Digital Library",
+		"title": "Eliciting Driver Stress Using Naturalistic Driving Scenarios on Real Roads",
+		"URL": "https://doi.org/10.1145/3239060.3239090",
+		"author": [
+			{
+				"family": "Baltodano",
+				"given": "Sonia"
+			},
+			{
+				"family": "Garcia-Mancilla",
+				"given": "Jesus"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					9,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/77GAWSQ2",
+		"type": "paper-conference",
+		"abstract": "How will pedestrians from different regions interact with an approaching autonomous vehicle? Understanding differences in pedestrian culture and responses can help inform autonomous cars how to behave appropriately in different regional contexts. We conducted a field study comparing the behavioral response of pedestrians between metropolitan Mexico City (N=113) and Colima, a smaller coastal city (N=81). We hid a driver in a car seat costume as a Wizard-of-Oz prototype to evoke pedestrian interaction behavior at a crosswalk or street. Pedestrian interactions were coded for crossing decision, crossing pathway, pacing, and observational behavior. Most distinctly, pedestrians in Mexico City kept their pace and more often crossed in front of the vehicle, while those in Colima stopped in front of the car more often.",
+		"collection-title": "AutomotiveUI '18",
+		"container-title": "Proceedings of the 10th International Conference on Automotive User Interfaces and Interactive Vehicular Applications",
+		"DOI": "10.1145/3239060.3241680",
+		"event-place": "New York, NY, USA",
+		"ISBN": "978-1-4503-5946-7",
+		"page": "210–220",
+		"publisher": "Association for Computing Machinery",
+		"publisher-place": "New York, NY, USA",
+		"source": "ACM Digital Library",
+		"title": "¡Vamos! Observations of Pedestrian Interactions with Driverless Cars in Mexico",
+		"URL": "https://doi.org/10.1145/3239060.3241680",
+		"author": [
+			{
+				"family": "Currano",
+				"given": "Rebecca"
+			},
+			{
+				"family": "Park",
+				"given": "So Yeon"
+			},
+			{
+				"family": "Domingo",
+				"given": "Lawrence"
+			},
+			{
+				"family": "Garcia-Mancilla",
+				"given": "Jesus"
+			},
+			{
+				"family": "Santana-Mancilla",
+				"given": "Pedro C."
+			},
+			{
+				"family": "Gonzalez",
+				"given": "Victor M."
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					9,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/YDFP66VV",
+		"type": "article-journal",
+		"container-title": "Interactions",
+		"DOI": "10.1145/3274570",
+		"ISSN": "1072-5520",
+		"issue": "6",
+		"journalAbbreviation": "interactions",
+		"page": "38–41",
+		"source": "November - December 2018",
+		"title": "Cybernetics and the design of the user experience of AI systems",
+		"URL": "https://doi.org/10.1145/3274570",
+		"volume": "25",
+		"author": [
+			{
+				"family": "Martelaro",
+				"given": "Nikolas"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					10,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/EKMYSDMU",
+		"type": "paper-conference",
+		"abstract": "Researchers and designers of in-vehicle interactions and interfaces currently have to choose between performing evaluation and human factors experiments in laboratory driving simulators or on-road experiments. To enjoy the benefit of customizable course design in controlled experiments with the immediacy and rich sensations of on-road driving, we have developed a new method and tools to enable VR driving simulation in a vehicle as it travels on a road. In this paper, we describe how the cost-effective and flexible implementation of this platform allows for rapid prototyping. A preliminary pilot test (N = 6), centered on an autonomous driving scenario, yields promising results, illustrating proof of concept and indicating that a basic implementation of the system can invoke genuine responses from test participants.",
+		"collection-title": "CHI '18",
+		"container-title": "Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems",
+		"DOI": "10.1145/3173574.3173739",
+		"event-place": "New York, NY, USA",
+		"ISBN": "978-1-4503-5620-6",
+		"page": "1–11",
+		"publisher": "Association for Computing Machinery",
+		"publisher-place": "New York, NY, USA",
+		"source": "ACM Digital Library",
+		"title": "VR-OOM: Virtual Reality On-rOad driving siMulation",
+		"title-short": "VR-OOM",
+		"URL": "https://doi.org/10.1145/3173574.3173739",
+		"author": [
+			{
+				"family": "Goedicke",
+				"given": "David"
+			},
+			{
+				"family": "Li",
+				"given": "Jamy"
+			},
+			{
+				"family": "Evers",
+				"given": "Vanessa"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					4,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/W8U8WED9",
+		"type": "article-journal",
+		"abstract": "Knowledge capture and reuse systems, such as interactive table surfaces or smart whiteboards, have long enabled designers to review and revisit the knowledge artifacts generated by their creative work. Advances in data sensing and computation now allow near real-time analysis and feedback to be added this toolbox. In this paper, we outline our exploratory application of real-time speaker identiﬁcation, audio transcription, linguistic analysis, and proactive content retrieval to design team meetings. We highlight the potential beneﬁts and limitations of tools available to collect and analyze real-time design interactions and identify areas of future exploration for engineering educators and designers. In addition, we consider the implications of these tools for design research; automatic data analysis makes it possible to instrument several design workspaces simultaneously, increasing the chance of capturing critical moments, and increasing the opportunity to draw comparisons and contrasts across teams.",
+		"language": "en",
+		"source": "Zotero",
+		"title": "ActiveNavigator: Toward Real-Time Knowledge Capture and Feedback in Design Workspaces",
+		"author": [
+			{
+				"family": "Moore",
+				"given": "Dylan"
+			},
+			{
+				"family": "Ge",
+				"given": "Xiao"
+			},
+			{
+				"family": "Sirkin",
+				"given": "David"
+			},
+			{
+				"family": "Stenholm",
+				"given": "Daniel"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/VX5DXNTF",
+		"type": "paper-conference",
+		"abstract": "Stress affects the lives of millions of people every day. In-situ sensing could enable just-in-time stress management interventions. We present the first work to detect stress using the movements of a car's existing steering wheel. We extend prior work on PC peripherals and demonstrate that stress, expressed through muscle tension in the limbs, can be measured through the way we drive a car. We collected data in a driving simulator under controlled circumstances to vary the levels of induced stress, within subjects. We analyze angular displacement data to estimate coefficients related to muscle tension using an inverse filtering technique. We prove that the damped frequency of a mass spring damper model representing the arm is significantly higher during stress. Stress can be detected with only a few turns during driving. We validate these measures against a known stressor and calibrate our sensor against known stress measurements.",
+		"collection-title": "CHI '18",
+		"container-title": "Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems",
+		"DOI": "10.1145/3173574.3174239",
+		"event-place": "New York, NY, USA",
+		"ISBN": "978-1-4503-5620-6",
+		"page": "1–12",
+		"publisher": "Association for Computing Machinery",
+		"publisher-place": "New York, NY, USA",
+		"source": "ACM Digital Library",
+		"title": "Fast & Furious: Detecting Stress with a Car Steering Wheel",
+		"title-short": "Fast &amp; Furious",
+		"URL": "https://doi.org/10.1145/3173574.3174239",
+		"author": [
+			{
+				"family": "Paredes",
+				"given": "Pablo E."
+			},
+			{
+				"family": "Ordonez",
+				"given": "Francisco"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			},
+			{
+				"family": "Landay",
+				"given": "James A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					4,
+					21
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/FSP5HY3V",
+		"type": "article-journal",
+		"abstract": "Motivated by the idea that slow breathing practices could transform the automobile commute from a depleting, mindless activity into a calming, mindful experience, we introduce the first guided slow breathing intervention for drivers. We describe a controlled in-lab experiment (N=24) that contrasts the effectiveness and impact of haptic and voice guidance modalities at slowing drivers' breathing pace, which is a known modulator of stress. The experiment was conducted in two simulated driving environments (city, highway) while driving in one of two driving modes (autonomous, manual). Results show that both haptic and voice guidance systems can reduce drivers' breathing rate and provide a sustained post-intervention effect without affecting driving safety. Subjectively, most participants (19/24) preferred the haptic stimuli as they found it more natural to follow, less distracting, and easier to engage and disengage from, compared to the voice stimuli. Finally, while most participants found guided breathing to be a positive experience, a few participants in the autonomous driving condition found slow breathing to be an unusual activity inside the car. In this paper, we discuss such considerations, offer guidelines for designing in-car breathing interventions, and propose future research that extends our work to on-road studies. Altogether, this paper serves as foundational work on guided breathing interventions for automobile drivers.",
+		"container-title": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
+		"DOI": "10.1145/3191760",
+		"issue": "1",
+		"journalAbbreviation": "Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.",
+		"page": "28:1–28:23",
+		"source": "March 2018",
+		"title": "Just Breathe: In-Car Interventions for Guided Slow Breathing",
+		"title-short": "Just Breathe",
+		"URL": "https://doi.org/10.1145/3191760",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Paredes",
+				"given": "Pablo E."
+			},
+			{
+				"family": "Zhou",
+				"given": "Yijun"
+			},
+			{
+				"family": "Hamdan",
+				"given": "Nur Al-Huda"
+			},
+			{
+				"family": "Balters",
+				"given": "Stephanie"
+			},
+			{
+				"family": "Murnane",
+				"given": "Elizabeth"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			},
+			{
+				"family": "Landay",
+				"given": "James A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					3,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/N7HIA2JU",
+		"type": "paper-conference",
+		"DOI": "10.21606/drs.2018.329",
+		"event-title": "Design Research Society Conference 2018",
+		"language": "en",
+		"source": "DOI.org (Crossref)",
+		"title": "Horse, Butler or Elevator? Metaphors and enactment as a catalyst for exploring interaction with autonomous technology",
+		"title-short": "Horse, Butler or Elevator?",
+		"URL": "https://dl.designresearchsociety.org/drs-conference-papers/drs2018/researchpapers/87",
+		"author": [
+			{
+				"literal": "Chalmers University of Technology"
+			},
+			{
+				"family": "Strömberg",
+				"given": "Helena"
+			},
+			{
+				"family": "Pettersson",
+				"given": "Ingrid"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					6,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/96MB6QKF",
+		"type": "chapter",
+		"abstract": "The Interaction Engine is a framework for prototyping interactive, connected devices based on widely available single-board Linux computers. With microcontrollers, networking, and modular open-source software, these modules enable interaction modalities such as audio, video, tangible, and digital interfaces to be embedded into forms that go beyond traditional computing. In this paper, we outline the hardware and software components that make up the general Interaction Engine framework and discuss its beneﬁts for interaction designers. We provide an illustrative case study of the Interaction Engine in use. We ran workshops to introduce designers to the Interaction Engine framework and we describe the projects where they subsequently employed Interaction Engines to understand issues and opportunities presented by this model. In describing the framework and case studies, we intend to shift designer’s thinking of computer as product to computer as material to create new interactive devices.",
+		"container-title": "Design Thinking Research",
+		"event-place": "Cham",
+		"ISBN": "978-3-319-60966-9",
+		"language": "en",
+		"note": "collection-title: Understanding Innovation\nDOI: 10.1007/978-3-319-60967-6_8",
+		"page": "147-169",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"source": "DOI.org (Crossref)",
+		"title": "The Interaction Engine",
+		"URL": "http://link.springer.com/10.1007/978-3-319-60967-6_8",
+		"editor": [
+			{
+				"family": "Plattner",
+				"given": "Hasso"
+			},
+			{
+				"family": "Meinel",
+				"given": "Christoph"
+			},
+			{
+				"family": "Leifer",
+				"given": "Larry"
+			}
+		],
+		"author": [
+			{
+				"family": "Martelaro",
+				"given": "Nikolas"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			},
+			{
+				"family": "Horowitz",
+				"given": "Mark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/B7IUBJN6",
+		"type": "paper-conference",
+		"abstract": "Lack of trust can arise when people do not know what autonomous vehicles perceive in the environment. To convey this information without causing alarm or compelling people to act, we designed and evaluated a way to sonify an autonomous vehicle's perception of salient driving events using abstract auditory icons, or \"earcons.\" These are localized in space using an in-car quadraphonic speaker array to correspond with the direction of events. We describe the interaction design for these awareness cues and a validation experiment (N=28) examining the effects of sonified events on drivers' sense of situation awareness, comfort, and trust. Overall, this work suggests that our designed earcons do improve people's awareness of in-simulation events. The effect of the increased situational awareness on trust and comfort is inconclusive. However, post-study design feedback suggests that sounds should have low levels of intensity and dissonance, and a sense of belonging to a common family.",
+		"collection-title": "AutomotiveUI '18",
+		"container-title": "Proceedings of the 10th International Conference on Automotive User Interfaces and Interactive Vehicular Applications",
+		"DOI": "10.1145/3239060.3265636",
+		"event-place": "New York, NY, USA",
+		"ISBN": "978-1-4503-5946-7",
+		"page": "237–246",
+		"publisher": "Association for Computing Machinery",
+		"publisher-place": "New York, NY, USA",
+		"source": "ACM Digital Library",
+		"title": "Don't Be Alarmed: Sonifying Autonomous Vehicle Perception to Increase Situation Awareness",
+		"title-short": "Don't Be Alarmed",
+		"URL": "https://doi.org/10.1145/3239060.3265636",
+		"author": [
+			{
+				"family": "Gang",
+				"given": "Nick"
+			},
+			{
+				"family": "Sibi",
+				"given": "Srinath"
+			},
+			{
+				"family": "Michon",
+				"given": "Romain"
+			},
+			{
+				"family": "Mok",
+				"given": "Brian"
+			},
+			{
+				"family": "Chafe",
+				"given": "Chris"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					9,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4985382/items/Y2S8RU69",
+		"type": "article-journal",
+		"abstract": "One key technique people use in conversation and collaboration is conversational repair. Self-repair is the recognition and attempted correction of one's own mistakes. We investigate how the self-repair of errors by intelligent voice assistants affects user interaction. In a controlled human-participant study (N =101), participants asked Amazon Alexa to perform four tasks, and we manipulated whether Alexa would \"make a mistake'' understanding the participant (for example, playing heavy metal in response to a request for relaxing music) and whether Alexa would perform a correction (for example, stating, \"You don't seem pleased. Did I get that wrong?'') We measured the impact of self-repair on the participant's perception of the interaction in four conditions: correction (mistakes made and repair performed), undercorrection (mistakes made, no repair performed), overcorrection (no mistakes made, but repair performed), and control (no mistakes made, and no repair performed). Subsequently, we conducted free-response interviews with each participant about their interactions. This study finds that self-repair greatly improves people's assessment of an intelligent voice assistant if a mistake has been made, but can degrade assessment if no correction is needed. However, we find that the positive impact of self-repair in the wake of an error outweighs the negative impact of overcorrection. In addition, participants who recently experienced an error saw increased value in self-repair as a feature, regardless of whether they experienced a repair themselves.",
+		"container-title": "Proceedings of the ACM on Human-Computer Interaction",
+		"DOI": "10.1145/3449101",
+		"issue": "CSCW1",
+		"journalAbbreviation": "Proc. ACM Hum.-Comput. Interact.",
+		"page": "27:1–27:24",
+		"source": "April 2021",
+		"title": "My Bad! Repairing Intelligent Voice Assistant Errors Improves Interaction",
+		"URL": "https://doi.org/10.1145/3449101",
+		"volume": "5",
+		"author": [
+			{
+				"family": "Cuadra",
+				"given": "Andrea"
+			},
+			{
+				"family": "Li",
+				"given": "Shuran"
+			},
+			{
+				"family": "Lee",
+				"given": "Hansol"
+			},
+			{
+				"family": "Cho",
+				"given": "Jason"
+			},
+			{
+				"family": "Ju",
+				"given": "Wendy"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					22
 				]
 			]
 		}
